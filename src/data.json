@@ -2,57 +2,62 @@
   "projects": [
     {
       "name": "News site",
-      "image": "",
+      "description": "A news site about dinosaurs, built with HTML and CSS.",
+      "image": "./images/News-site-dinosaurs.jpg",
       "tags": [
         "HTML5",
         "CSS3"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://dinosaur-news-site.netlify.app/",
+      "github": "https://github.com/erichsen/technigo-project-news-site"
     },
     {
       "name": "Business site",
-      "image": "",
+      "description": "A business site for a golf club, built with HTML and CSS.",
+      "image": "./images/Golf-business.jpg",
       "tags": [
         "HTML5",
         "CSS3"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://business-golf-seriously.netlify.app/",
+      "github": "https://github.com/erichsen/business-site-seriously"
     },
     {
       "name": "Pizzabot",
-      "image": "",
+      "description": "A pizza ordering bot, built with HTML, CSS, and JavaScript.",
+      "image": "./images/Pizzabot.jpg",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://pizzabot-extra-funky.netlify.app/",
+      "github": "https://github.com/erichsen/technigo-project-pizzabot"
     },
     {
-      "name": "Library",
-      "image": "",
+      "name": "Recipe Library",
+      "description": "A recipe management system, built with HTML, CSS, and JavaScript.",
+      "image": "./images/Recipe-library.jpg",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://technigo-project-library.pages.dev/",
+      "github": "https://github.com/erichsen/technigo-project-library"
     },
     {
       "name": "Weather app",
-      "image": "",
+      "description": "A weather app that displays current weather information, built with HTML, CSS, and JavaScript.",
+      "image": "./images/Weather-app.jpg",
       "tags": [
         "HTML5",
         "CSS3",
         "JavaScript",
         "APIs"
       ],
-      "netlify": "link",
-      "github": "link"
+      "netlify": "https://technigo-project-weather-app-main.pages.dev/",
+      "github": "https://github.com/erichsen/technigo-project-weather-app-main"
     }
   ]
 }
